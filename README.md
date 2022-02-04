@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aissa-laribi
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning AWS, Python-advanced, and Linux Advanced
-- 💞️ I’m looking to collaborate on projects to create and index CloudFormation Templates 
+- 👀 I’m interested in automation, programming, andCloud Computing
+- 🌱 I’m currently I am enhancing my Linux and Python skills, getting hands-on experience with building serverless solutions, containers in the Cloud, APIs interactions, and DevOps CI/CD pipelines.
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me https://www.linkedin.com/in/aissa-laribi-3704b8162/
 
 <!---

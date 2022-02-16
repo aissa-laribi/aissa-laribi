@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aissa-laribi
 - 👀 I’m interested in automation, programming, and Cloud Computing
-- 🌱 I’m currently enhancing my Linux and Python skills, getting hands-on experience with building serverless solutions, containers in the Cloud, APIs interactions, and DevOps CI/CD pipelines.
-- 💞️ I’m looking to collaborate on DevOps projects
+- 🌱 I’m currently working on AWS Labs regarding Automation, APIs, Serverless Applications & CI/CD
+- 💞️ I’m looking to collaborate on AWS Automation Deployment Projects
 - 📫 How to reach me https://www.linkedin.com/in/aissa-laribi-3704b8162/
 
 <!---

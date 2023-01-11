@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aissa-laribi
-- 👀 I’m interested in automation, development, devops, , serverless and sre.
+- 👀 I’m interested in automation, software development, devops, , serverless and sre.
 - 🌱 I’m learning Android Development, and the Computer Science path from Codeacademy  
 - 💞️ I’m looking to build full stack web applications (Web application with Flask/Django + Android app)
 - 📫 How to reach me? [Email](aissa2retour@gmail.com) or [Linkedin](https://www.linkedin.com/in/aissa-laribi-3704b8162/)

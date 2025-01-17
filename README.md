@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @aissa-laribi
-- 👀 I’m interested in Software Engineering, Instruction Set Architecture, Digital Electronics, ArtificiaI Intelligence, Computer Networks, Web Development, Unix, Devops, and IOT.
-- 🌱 I’m working on Java, Computer Networks, Digital Systems and I am enrolled in the Computer Science course at UCD
-- 📫 How to reach me? [Linkedin](https://www.linkedin.com/in/aissa-laribi-3704b8162/)
-- :computer: To have an overview of my problem-solving skills check my [Leetcode]( https://leetcode.com/aissa-laribi/), and as well I blog on [dev.to](https://dev.to/aissalaribi)
-<!---
-aissa-laribi/aissa-laribi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I’m Aïssa Laribi 👋
+
+- 👀 **Interests:** Software Engineering, Instruction Set Architecture, Digital Electronics, Artificial Intelligence, Computer Networks, Web Development, Unix, IoT, and more.
+- 🌱 **Current Work:** Developing a quiz web application using FastAPI and learning IoT development with the ESP32.
+- 🎓 **Education:** Computer Science student at UCD.
+- 📫 **Reach Me:** Connect on [LinkedIn](https://www.linkedin.com/in/aissa-laribi-3704b8162/).
+- :computer: **Problem-Solving:** Check out my [LeetCode](https://leetcode.com/aissa-laribi/) profile for coding challenges and solutions.
+- ✍️ **Writing:** I share insights and tutorials on [dev.to](https://dev.to/aissalaribi).
+
+---

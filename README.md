@@ -1,10 +1,38 @@
 ## Hi, I’m Aïssa Laribi 👋
 
-- 👀 **Interests:** Software Engineering, Instruction Set Architecture, Digital Electronics, Artificial Intelligence, Computer Networks, Web Development, Unix, IoT, and more.
-- 🌱 **Current Work:** Developing a quiz web application using FastAPI and learning IoT development with the ESP32.
-- 🎓 **Education:** Computer Science student at UCD.
-- 📫 **Reach Me:** Connect on [LinkedIn](https://www.linkedin.com/in/aissa-laribi-3704b8162/).
-- :computer: **Problem-Solving:** Check out my [LeetCode](https://leetcode.com/aissa-laribi/) profile for coding challenges and solutions.
-- ✍️ **Writing:** I share insights and tutorials on [dev.to](https://dev.to/aissalaribi).
+Computer Science student at UCD interested in building reliable software systems and understanding how technology works under the hood — from backend development to embedded and distributed systems.
 
 ---
+
+### Focus Areas
+- Software Engineering & Backend Development
+- Systems Programming, Networking & Reliability
+- Embedded Systems & IoT (ESP32 / FreeRTOS)
+- Applied Artificial Intelligence
+
+---
+
+### Current Projects
+- **StudyQuiz** — A spaced-repetition learning platform built with FastAPI and modern web technologies.
+- **ESP32 Smart Plug** — Exploring embedded development, real-time systems, and IoT architecture.
+- **Online Marketplace** — Building an online marketplace with Java Spring Boot.
+
+---
+
+### Education
+- BSc Computer Science — University College Dublin (UCD)
+
+---
+
+### Problem Solving
+- Practising algorithms and coding challenges on [LeetCode](https://leetcode.com/aissa-laribi/)
+
+---
+
+### Writing & Sharing
+- Insights and tutorials on [dev.to](https://dev.to/aissalaribi)
+
+---
+
+### 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/aissa-laribi-3704b8162/)

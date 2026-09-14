@@ -1,6 +1,6 @@
 ## Hi, I’m Aissa Laribi 👋
 
-Stage 3 Computer Science student at University College Dublin (UCD) interested in building reliable software systems and understanding how technology works under the hood — from backend development to embedded systems and applied AI for production.
+Stage 4 Computer Science student at University College Dublin (UCD) interested in building reliable software systems and understanding how technology works under the hood — from backend development to embedded systems and applied AI in production.
 
 ---
 
@@ -8,22 +8,23 @@ Stage 3 Computer Science student at University College Dublin (UCD) interested i
 - Software Engineering & Backend Development
 - Systems Programming, Networking & Reliability
 - Embedded Systems & IoT (ESP32 / FreeRTOS)
-- Applied Artificial Intelligence & Model Inference
+- Applied AI & Model Inference
 - Performance, Cost and Resource Efficiency
 
 ---
 
 ### Current Projects
-- **StudyQuiz** — A deployed spaced-repetition learning platform built with FastAPI and modern web technologies.
+- **StudyQuiz** — A deployed learning platform that turns study material into quizzes and supports spaced-repetition review, built with FastAPI, PostgreSQL and SvelteKit.
 - **ESP32 Smart Plug** — Exploring embedded development, real-time systems, and IoT architecture.
 - **Online Marketplace** — Building an online marketplace with Java Spring Boot.
 
 ---
 ### What I’m Currently Learning
-- How modern AI systems work (Transformers, inference, model efficiency)
-- Running lightweight AI models in constrained environments
-- Systems design, performance, and reliability
-- Distributed and embedded system behavior
+- Human-Centred AI (HCAI)
+- Research Methods & Technical Communication
+- Parallel Computing
+- Cloud Computing
+- Information Theory
 
 ### Education
 - BSc Computer Science — University College Dublin (UCD)
